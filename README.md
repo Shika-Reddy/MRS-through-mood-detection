@@ -1,1 +1,2 @@
 # MRS-through-mood-detection
+The "Movie Recommendation through Mood Detection" project aims to provide personalized movie recommendations to users based on their current mood. The system utilizes computer vision and machine learning techniques to analyze user's facial expressions to detect their mood and then suggests the most suitable movies accordingly. The model is used to recommend movies based on the emotional state of the user, such as recommending uplifting or comedic movies for users expressing happiness.
